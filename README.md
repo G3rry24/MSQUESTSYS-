@@ -1,2 +1,2 @@
-# MSQUESTSYS-
-Email Blast is sending bulk or mass email to recipients.
+# MSQUESTSYS-App
+Application for sample
